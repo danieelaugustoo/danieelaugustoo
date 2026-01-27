@@ -39,11 +39,4 @@ Currently learning Java and improving knowledge in cloud computing and full stac
 </p>
 
 
-Database
 
-Tools & Version Control
-
-
-
-
-Cloud & Learning
