@@ -1,4 +1,4 @@
-# DANIEL AUGUSTO AMARANTE DA SILVA
+# Daniel Augusto Amarante da Silva
 
 Full Stack Developer • Web Applications • Databases • Cloud Fundamentals
 
