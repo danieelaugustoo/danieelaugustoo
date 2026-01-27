@@ -1,12 +1,12 @@
 # Daniel Augusto Amarante da Silva
 
-Full Stack Developer • Web Applications • Databases • Cloud Fundamentals
+Back-End Developer • Web Applications • APIs • Databases • Cloud Fundamentals
 
-# About
+## About
 
-Full Stack Developer focused on building structured web applications, combining interface development, backend logic, and database integration. Experience with academic and practical projects using modern web technologies, always prioritizing clean code, organization, and scalability.
+Back-End Developer focused on building structured and efficient web applications, working with server-side logic, database integration, and API development. Experience with academic and practical projects using modern backend technologies, always prioritizing clean code, system organization, performance, and scalability.
 
-Currently learning Java and improving knowledge in cloud computing and full stack development.
+Currently learning Java and improving knowledge in cloud computing and backend architecture.
 
 ### Languages
 <p>
