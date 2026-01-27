@@ -1,16 +1,40 @@
-## Hi there 👋
+DANIEL AUGUSTO AMARANTE DA SILVA
 
-<!--
-**danieelaugustoo/danieelaugustoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer • Web Applications • Databases • Cloud Fundamentals
 
-Here are some ideas to get you started:
+About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer focused on building structured web applications, combining interface development, backend logic, and database integration. Experience with academic and practical projects using modern web technologies, always prioritizing clean code, organization, and scalability.
+
+Currently learning Java and improving knowledge in cloud computing and full stack development.
+
+Tech Stack
+Languages
+
+
+
+
+
+
+
+
+Frontend
+
+
+
+
+
+
+Backend
+
+
+
+
+Database
+
+Tools & Version Control
+
+
+
+
+Cloud & Learning
