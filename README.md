@@ -8,26 +8,35 @@ Full Stack Developer focused on building structured web applications, combining 
 
 Currently learning Java and improving knowledge in cloud computing and full stack development.
 
-Tech Stack
-Languages
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,php" />
+</p>
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel" />
+</p>
 
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
-
-
-
-Frontend
-
-
-
-
-
-
-Backend
-
-
+### Cloud (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
 
 
 Database
