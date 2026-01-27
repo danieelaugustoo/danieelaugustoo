@@ -10,7 +10,7 @@ Currently learning Java and improving knowledge in cloud computing and full stac
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,,js,php" />
+  <img src="https://skillicons.dev/icons?i=python,js,php" />
 </p>
 
 ### Languages (Learning)
