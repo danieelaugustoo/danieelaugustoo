@@ -26,4 +26,6 @@ Aprendendo agora: Java, fundamentos de nuvem na Azure e segurança de aplicaçõ
 
 ## Contato
 
+- LinkedIn: [linkedin.com/in/danieelaugustoo](https://www.linkedin.com/in/danieelaugustoo/)
+- E-mail: [aasilva.daniel@gmail.com](mailto:aasilva.daniel@gmail.com)
 - GitHub: [@danieelaugustoo](https://github.com/danieelaugustoo)

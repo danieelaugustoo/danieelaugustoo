@@ -28,4 +28,6 @@ Currently learning: Java, Azure cloud fundamentals and web application security.
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/danieelaugustoo](https://www.linkedin.com/in/danieelaugustoo/)
+- Email: [aasilva.daniel@gmail.com](mailto:aasilva.daniel@gmail.com)
 - GitHub: [@danieelaugustoo](https://github.com/danieelaugustoo)
